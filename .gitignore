@@ -1,0 +1,10 @@
+# .gitignore
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore dist directory
+dist/
+
+# Ignore .env files
+.env
